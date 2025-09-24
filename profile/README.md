@@ -1,7 +1,7 @@
 # App Wrapper Mac – Streamline Your Mac App Deployment
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/43744/m/app-wrapper-logo.png?v=1661842511" alt="App Wrapper Mac Logo" width="256" height="256">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Mac_App_Store_logo.png/250px-Mac_App_Store_logo.png" alt="App Wrapper Mac Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
